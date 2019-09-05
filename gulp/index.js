@@ -21,7 +21,7 @@ const shellExecList = [
 const fileZipName = `release-${env}-zip.zip`;
 const fileZipPath = '../dist/zip/' + fileZipName;
 
-const params = {file: fileZipPath, target: '/home/feapp/frontend/a.zip'};
+const params = {file: fileZipPath, target: '/home/frontend/a.zip'};
 
 function Ready() {
   log('release Ready==>>>');

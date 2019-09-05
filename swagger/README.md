@@ -3,8 +3,8 @@
 ###### 1. 执行脚本;
    
 ```
-yarn api --name=oms --url=http://fedev.ff.com/boms/api/v2/api-docs
-yarn api --name=mall --tag=V1.11.0
+node index.js --name=oms --url=http://fedev.ff.com/boms/api/v2/api-docs
+node index.js --name=mall --tag=V1.11.0
 ```
 
 ###### 2. 参数说明;

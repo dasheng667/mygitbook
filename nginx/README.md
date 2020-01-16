@@ -271,6 +271,9 @@ docker run -d -p 8888:80 --name nginx-server -v /opt/confs/nginx.conf:/etc/nginx
 $ mkdir -p /opt/html
 $ vim /opt/html/index.html
 
+```
+
+
 # 编辑内容如下：
 <div>
   <h1>

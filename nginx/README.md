@@ -273,6 +273,9 @@ $ vim /opt/html/index.html
 
 ```
 
+```
+
+
 
 # 编辑内容如下：
 <div>
@@ -301,6 +304,9 @@ $ vim /opt/html/index.html
 $ docker run -d -p 6666:80 --name nginx-node2 -v $(pwd)/html:/usr/share/nginx/html --restart always nginx
 测试：
 域名:mongo.demo.com，这里是用Windows系统主机访问服务器，要在当前主机的hosts中添加解析 “mongo.demo.com 192.168.0.4”，hosts文件所在的路径为 “C:\Windows\System32\drivers\etc”。
+```
+
+
 
 
 

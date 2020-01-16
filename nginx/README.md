@@ -151,6 +151,8 @@ Web1:192.168.0.5（Nginx-Node1/Nginx-Web1） ；Web2:192.168.0.7（Nginx-Node2/N
 
 用户访问Nginx-Server（“http://mongo.demo.com:8888”）时，通过Nginx负载均衡到Web1和Web2服务器
 Nginx负载均衡服务器的nginx.conf配置注释如下：
+
+```
 events
 {
     use epoll;
@@ -210,6 +212,10 @@ http
         }
     }
 }
+
+```
+
+
 负载均衡操作演示如下：
 操作对象：192.168.0.4（Nginx-Server）
 

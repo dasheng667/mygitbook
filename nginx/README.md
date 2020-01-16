@@ -1,4 +1,4 @@
-``` js
+``` nginx
 #定义Nginx运行的用户和用户组
 user www www;
 #

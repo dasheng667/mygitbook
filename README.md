@@ -9,6 +9,6 @@
 
 
 #### Nginx配置
-* [Nginx配置](./nginx/README.md)
+* [Nginx配置参数中文说明](./nginx/README.md)
 
 

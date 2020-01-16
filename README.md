@@ -6,3 +6,9 @@
 * [前端 WebView 指南之调试篇](https://75team.com/post/webview-debug.html)
 * [Android 设备的远程调试入门](https://developers.google.cn/web/tools/chrome-devtools/remote-debugging/?hl=zh-cn#troubleshooting)
 * [前端错误监控，sentry](https://sentry.io/welcome/)
+
+
+#### Nginx配置
+* [Nginx配置](./nginx/README.md)
+
+

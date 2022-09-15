@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T12:47:07.792Z" agent="5.0 (Macintosh)" etag="nJX6tBUZkpn3rgX_sLzr" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T12:55:12.872Z" agent="5.0 (Macintosh)" etag="XHBVZmyoSWCnYj9ZN4RV" version="16.5.3" type="github">
   <diagram id="3F-p0eLopyHsa_uMCWPz" name="第 1 页">
     <mxGraphModel dx="897" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qD8WWxVBvYIQoI_9ymcc-47" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#CCE5FF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="590" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qD8WWxVBvYIQoI_9ymcc-46" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#FFE8E6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="324" y="241" width="270" height="329" as="geometry" />
+        </mxCell>
         <mxCell id="qD8WWxVBvYIQoI_9ymcc-1" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="270" y="190" width="110" height="50" as="geometry" />
         </mxCell>
@@ -111,6 +117,18 @@
         </mxCell>
         <mxCell id="qD8WWxVBvYIQoI_9ymcc-45" value="传输使用 master secret 加密的数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="600" width="240" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="qD8WWxVBvYIQoI_9ymcc-48" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#FFE8E6;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="640" width="61" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="qD8WWxVBvYIQoI_9ymcc-49" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeWidth=2;fillColor=#CCE5FF;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="670" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qD8WWxVBvYIQoI_9ymcc-50" value="安全层握手协商" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#33001A;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="680" y="637" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="qD8WWxVBvYIQoI_9ymcc-51" value="传输数据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#33001A;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="680" y="667" width="80" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

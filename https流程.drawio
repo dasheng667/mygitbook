@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T07:14:52.771Z" agent="5.0 (Macintosh)" version="16.5.3" etag="Ke1Enze-Map78xh4zbKB" type="github"><diagram id="3F-p0eLopyHsa_uMCWPz">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-15T12:23:21.833Z" agent="5.0 (Macintosh)" etag="c1NMzcgwVQUo9qadjdx9" version="16.5.3" type="github">
+  <diagram id="3F-p0eLopyHsa_uMCWPz" name="第 1 页">
+    <mxGraphModel dx="897" dy="760" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qD8WWxVBvYIQoI_9ymcc-1" value="Client" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qD8WWxVBvYIQoI_9ymcc-3" value="Server" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qD8WWxVBvYIQoI_9ymcc-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="qD8WWxVBvYIQoI_9ymcc-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="600" as="sourcePoint" />
+            <mxPoint x="350" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qD8WWxVBvYIQoI_9ymcc-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="qD8WWxVBvYIQoI_9ymcc-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="595" y="600" as="sourcePoint" />
+            <mxPoint x="610" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qD8WWxVBvYIQoI_9ymcc-6" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="270" as="sourcePoint" />
+            <mxPoint x="590" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qD8WWxVBvYIQoI_9ymcc-7" value="加密套件列表 + &lt;font color=&quot;#FF0000&quot;&gt;&lt;b&gt;client-random&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="240" width="240" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
